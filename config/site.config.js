@@ -55,7 +55,10 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/rootoy',
     },
-
+    {
+      name: 'house',
+      link: 'https://yunet.gitee.io',
+    },
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
