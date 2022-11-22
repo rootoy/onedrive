@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "幸运草网盘",
+  title: "幸运草的网盘",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -55,10 +55,7 @@ module.exports = {
       name: 'GitHub',
       link: 'https://github.com/rootoy',
     },
-    {
-      name: '主页',
-      link: 'https://yunet.gitee.io',
-    },
+
   ],
 
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
