@@ -54,7 +54,7 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'House',
+      name: 'Github',
       link: 'https://github.com/rootoy',
     },
 
