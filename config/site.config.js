@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "幸运草的网盘",
+  title: "CLOvER's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/',
@@ -54,12 +54,17 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'Github',
-      link: 'https://github.com/rootoy',
+      name: 'GitHub',
+      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
     },
-
+    {
+      name: 'Telegram',
+      link: 'https://t.me/realSpencerWoo',
+    },
   ],
-
+  
+  
+  
   // This is a day.js-style datetime format string to format datetimes in the app. Ref to
   // https://day.js.org/docs/en/display/format for detailed specification. The default value is ISO 8601 full datetime
   // without timezone and replacing T with space.
