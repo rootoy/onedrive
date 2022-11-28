@@ -54,12 +54,12 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'GitHub',
-      link: 'https://github.com/spencerwooo/onedrive-vercel-index',
+      name: 'Github',
+      link: 'https://github.com/rootoy',
     },
     {
-      name: 'Telegram',
-      link: 'https://t.me/realSpencerWoo',
+      name: 'blog',
+      link: 'https://yunet.gitee.io/blog',
     },
   ],
   
