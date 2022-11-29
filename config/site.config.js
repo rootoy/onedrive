@@ -58,7 +58,7 @@ module.exports = {
       link: 'https://github.com/rootoy',
     },
      {
-      name: 'User',
+      name: 'Key',
       link: 'https://yunet.gitee.io/about',
     },
   ],
